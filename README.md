@@ -1,7 +1,7 @@
 # Test_Practices
 
 # Self Profile (Java)
-- A console program that displays a simple self-profile, built to practice
+- My first test console program that displays a simple self-profile, built to practice
 basic data types and string concatenation in Java.
 
 > Java Concepts Practiced
