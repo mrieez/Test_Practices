@@ -48,9 +48,11 @@ public class WeatherTemp {
         int option = askedUser.nextInt();
 
         if (option == 1) {
-            System.out.println("test");
+            System.out.print("1 + 1 = ");
+            int answer01 = askedUser.nextInt();
         } else if (option == 2) {
-            System.out.println("test");
+            System.out.print("11 + 11 = ");
+            int answer02 = askedUser.nextInt();
         } else {
             System.out.println("Please only input 1 or 2.");
         }
