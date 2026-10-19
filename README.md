@@ -10,7 +10,7 @@ basic data types and string concatenation in Java.
 - Classes and the `main` method
 
 # Weather Temperature (Java)
-- Second test console program that displays the temperature of a specific city weather, but for now, you cannot test the option part as I consider it as a trial_test to my foundational skills in Java.
+- Second test console program that displays the temperature of a specific city weather, but for now, you cannot test the option part as yes :'>
 
 > Java Concepts Practiced
 - Arithmetic Operations (`+`)
